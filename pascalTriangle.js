@@ -16,4 +16,4 @@ function printPascalTriangle(rows) {
   return arr;
 }
 
-console.log(printPascalTriangle(5));
+console.table(printPascalTriangle(5));
